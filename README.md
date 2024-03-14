@@ -50,3 +50,10 @@
     This will build and start the containers defined in the `docker-compose.yml` file.
 
     You can launch this url <http://localhost:3000/> on browser.
+
+
+
+https://github.com/jklinson/nextjs-musixmatch-api/assets/3518004/325e2347-8006-44f7-a082-cdd389c2a62c
+
+
+   
